@@ -70,6 +70,16 @@ class AboutView extends ScrollView
               @input type: 'checkbox', checked: true, outlet: 'automaticallyUpdateCheckbox'
               @span 'Automatically download updates'
 
+        @div class: 'about', =>
+          @span class: 'inline', 'Atom is a hackable text editor for the 21st century, that is built using web technologies, on top of the '
+          @a class: 'inline', href: 'https://electron.atom.io', 'Electron'
+          @span class: 'inline', 'framework.<br/>'
+          @span class: 'inline', 'This instance of Atom, was built from the'
+          @a class: 'inline', href: 'https://github.com/fusion809/PKGBUILDs/tree/master/atom-editor', 'atom-editor'
+          @span class: 'inline', 'PKGBUILD, in the'
+          @a class: 'inline', href: 'https://github.com/fusion809/PKGBUILDs', 'fusion809/PKGBUILDs'
+          @span class: 'inline', 'GitHub repository'
+
         @div class: 'about-actions group-item', =>
           @div class: 'btn-group', =>
             @button class: 'btn view-license', outlet: 'viewLicense', 'License'
@@ -85,7 +95,7 @@ class AboutView extends ScrollView
         @div class: 'about-credits group-item', outlet: 'credits', =>
           @span class: 'inline', 'And the awesome '
           @a href: 'https://github.com/atom/atom/contributors', 'Atom Community'
-          @span class: 'inline', ' and packaged by '
+          @span class: 'inline', ' and packaged for Arch Linux by '
           @a class: 'inline', href: 'https://fusion809.github.io', 'Brenton Horne'
 
 
