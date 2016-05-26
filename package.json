@@ -1,11 +1,11 @@
 {
-  "name": "about",
-  "author": "Machisté N. Quintana <mnquintana@users.noreply.github.com>",
+  "name": "about-arch",
+  "author": "Brenton Horne <brentonhorne77@gmail.com>, Machisté N. Quintana <mnquintana@users.noreply.github.com>",
   "main": "./lib/about",
   "version": "1.5.2",
-  "description": "View useful information about your Atom installation.",
+  "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs.",
   "keywords": [],
-  "repository": "https://github.com/atom/about",
+  "repository": "https://github.com/fusion809/about",
   "license": "MIT",
   "engines": {
     "atom": ">=0.210.0 <2.0.0"
