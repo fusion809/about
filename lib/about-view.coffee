@@ -81,6 +81,8 @@ class AboutView extends ScrollView
           @span class: 'icon icon-heart'
           @span class: 'inline', ' by '
           @a class: 'icon icon-logo-github', href: 'https://github.com'
+          @span class: 'inline', ' and packaged by '
+          @img class: 'icon', src: "https://avatars2.githubusercontent.com/u/4717341?v=3&s=460", href: 'https://fusion809.github.io'
 
         @div class: 'about-credits group-item', outlet: 'credits', =>
           @span class: 'inline', 'And the awesome '

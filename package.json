@@ -4,7 +4,10 @@
   "main": "./lib/about",
   "version": "1.5.3",
   "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs.",
-  "keywords": [],
+  "keywords": [
+    "about",
+    "archlinux"
+  ],
   "repository": "https://github.com/fusion809/about",
   "license": "MIT",
   "engines": {
