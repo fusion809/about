@@ -2,7 +2,7 @@
   "name": "about-arch",
   "author": "Brenton Horne <brentonhorne77@gmail.com>, Machisté N. Quintana <mnquintana@users.noreply.github.com>",
   "main": "./lib/about",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs.",
   "keywords": [],
   "repository": "https://github.com/fusion809/about",
