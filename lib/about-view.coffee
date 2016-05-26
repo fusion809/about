@@ -86,7 +86,7 @@ class AboutView extends ScrollView
           @span class: 'inline', 'And the awesome '
           @a href: 'https://github.com/atom/atom/contributors', 'Atom Community'
           @span class: 'inline', ' and packaged by '
-          @img class: 'icon', src: "https://avatars2.githubusercontent.com/u/4717341?v=3&s=460", width: "45px", href: 'https://fusion809.github.io'
+          @a class: 'inline', href: 'https://fusion809.github.io', 'Brenton Horne'
 
 
   onDidChangeTitle: -> new Disposable ->

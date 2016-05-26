@@ -1,4 +1,4 @@
-Copyright (c) 2015 Machisté N. Quintana
+Copyright (c) 2015 Brenton Horne, Machisté N. Quintana
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
