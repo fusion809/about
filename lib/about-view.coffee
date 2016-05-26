@@ -70,15 +70,6 @@ class AboutView extends ScrollView
               @input type: 'checkbox', checked: true, outlet: 'automaticallyUpdateCheckbox'
               @span 'Automatically download updates'
 
-        @p class: 'about-metrics group-start', =>
-          @raw '''
-              <strong>Note:</strong> To help us improve Atom, we anonymously
-              track usage metrics, such as launch time, screen size, and current
-              version. See the
-              <a class="metrics-open" data-event="atom-metrics">atom/metrics</a>
-              package for details and instructions to disable it.
-            '''
-
         @div class: 'about-actions group-item', =>
           @div class: 'btn-group', =>
             @button class: 'btn view-license', outlet: 'viewLicense', 'License'
