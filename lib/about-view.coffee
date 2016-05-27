@@ -71,14 +71,14 @@ class AboutView extends ScrollView
               @span 'Automatically download updates'
 
         @div class: 'about', =>
-          @span class: 'inline', 'Atom is a hackable text editor for the 21st century, that is built using web technologies, on top of the '
-          @a class: 'inline', href: 'https://electron.atom.io', 'Electron'
-          @span class: 'inline', 'framework.<br/>'
-          @span class: 'inline', 'This instance of Atom, was built from the'
-          @a class: 'inline', href: 'https://github.com/fusion809/PKGBUILDs/tree/master/atom-editor', 'atom-editor'
-          @span class: 'inline', 'PKGBUILD, in the'
-          @a class: 'inline', href: 'https://github.com/fusion809/PKGBUILDs', 'fusion809/PKGBUILDs'
-          @span class: 'inline', 'GitHub repository'
+          @span class: "about-inline", 'Atom is a hackable text editor for the 21st century, that is built using web technologies, on top of the '
+          @a class: 'about-inline', href: 'https://electron.atom.io', 'Electron'
+          @span class: 'about-inline', 'framework.<br/>'
+          @span class: 'about-inline', 'This instance of Atom, was built from the'
+          @a class: 'about-inline', href: 'https://github.com/fusion809/PKGBUILDs/tree/master/atom-editor', 'atom-editor'
+          @span class: 'about-inline', 'PKGBUILD, in the'
+          @a class: 'about-inline', href: 'https://github.com/fusion809/PKGBUILDs', 'fusion809/PKGBUILDs'
+          @span class: 'about-inline', 'GitHub repository'
 
         @div class: 'about-actions group-item', =>
           @div class: 'btn-group', =>
