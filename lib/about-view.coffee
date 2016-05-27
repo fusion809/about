@@ -73,7 +73,7 @@ class AboutView extends ScrollView
         @div class: 'about-inline', =>
           @span 'Atom is a hackable text editor for the 21st century, that is built using web technologies, on top of the '
           @a href: 'https://electron.atom.io', 'Electron'
-          @span ' framework. This instance of Atom, was built from the '
+          @span ' framework. This build of Atom, was built from the '
           @a href: 'https://github.com/fusion809/PKGBUILDs/tree/master/atom-editor', 'atom-editor'
           @span ' PKGBUILD, in the '
           @a href: 'https://github.com/fusion809/PKGBUILDs', 'fusion809/PKGBUILDs'
