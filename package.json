@@ -4,7 +4,7 @@
   "main": "./lib/about",
   "readme": "./README.md",
   "version": "1.5.15",
-  "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs.",
+  "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs and atom-installer.",
   "keywords": [
     "about",
     "archlinux"

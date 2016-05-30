@@ -5,7 +5,7 @@
 
 View useful information about your Atom installation.
 
-![About screenshot](https://raw.githubusercontent.com/atom/about/master/resources/about-atom.png)
+![About screenshot](https://raw.githubusercontent.com/fusion809/about/master/resources/about-atom.png)
 
 This is a package for [Atom](https://atom.io), a hackable text editor for the 21st Century.
 
