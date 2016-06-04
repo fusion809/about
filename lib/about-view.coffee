@@ -74,9 +74,9 @@ class AboutView extends ScrollView
           @span 'Atom is a hackable text editor for the 21st century, that is built using web technologies, on top of the '
           @a href: 'https://electron.atom.io', 'Electron'
           @span ' framework. This build of Atom, was built from the '
-          @a href: 'https://github.com/fusion809/PKGBUILDs/tree/master/atom-editor', 'atom-editor'
-          @span ' PKGBUILD, in the '
-          @a href: 'https://github.com/fusion809/PKGBUILDs', 'fusion809/PKGBUILDs'
+          @a href: 'https://github.com/fusion809/atom-editor/blob/master/PKGBUILD', 'PKGBUILD'
+          @span ' , in the '
+          @a href: 'https://github.com/fusion809/atom-editor', 'fusion809/atom-editor'
           @span ' GitHub repository.'
 
         @div class: 'about-actions group-item', =>
@@ -96,7 +96,9 @@ class AboutView extends ScrollView
           @a href: 'https://github.com/atom/atom/contributors', 'Atom Community'
           @span class: 'inline', ' and packaged for Arch Linux by '
           @a class: 'inline', href: 'https://fusion809.github.io', 'Brenton Horne'
-          @span class: 'inline', '.'
+          @span class: 'inline', '<'
+          @a class: 'inline', href: 'mailto:brentonhorne77@gmail.com', 'brentonhorne77@gmail.com'
+          @span class: 'inline', '>.'
 
 
   onDidChangeTitle: -> new Disposable ->
