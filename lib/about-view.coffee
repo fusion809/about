@@ -96,7 +96,7 @@ class AboutView extends ScrollView
           @a href: 'https://github.com/atom/atom/contributors', 'Atom Community'
           @span class: 'inline', ' and packaged for Arch Linux by '
           @a class: 'inline', href: 'https://fusion809.github.io', 'Brenton Horne'
-          @span class: 'inline', '<'
+          @span class: 'inline', ' <'
           @a class: 'inline', href: 'mailto:brentonhorne77@gmail.com', 'brentonhorne77@gmail.com'
           @span class: 'inline', '>.'
 
