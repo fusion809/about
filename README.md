@@ -1,4 +1,4 @@
-# About[![Build Status](https://travis-ci.org/fusion809/about.svg?branch=master)](https://travis-ci.org/fusion809/about)
+# About [![Build Status](https://travis-ci.org/fusion809/about.svg?branch=master)](https://travis-ci.org/fusion809/about)
 
 View useful information about your Atom installation.
 
