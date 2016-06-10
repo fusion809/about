@@ -1,7 +1,4 @@
-# About
-
-[![Build Status](https://travis-ci.org/atom/about.svg?branch=master)](https://travis-ci.org/atom/about)
-[![Dependency Status](https://david-dm.org/atom/about.svg)](https://david-dm.org/atom/about)
+# About[![Build Status](https://travis-ci.org/fusion809/about.svg?branch=master)](https://travis-ci.org/fusion809/about)
 
 View useful information about your Atom installation.
 
@@ -21,4 +18,4 @@ has some extra information.
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/atom/about/blob/master/LICENSE.md) for more details.
+[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/fusion809/about/blob/master/LICENSE.md) for more details.
