@@ -5,7 +5,7 @@
   "main": "./lib/about",
   "readme": "# About [![Build Status](https://travis-ci.org/fusion809/about.svg?branch=master)](https://travis-ci.org/fusion809/about)\n\nView useful information about your Atom installation.\n\n![About screenshot](https://raw.githubusercontent.com/fusion809/about/master/resources/about-atom.png)\n\nThis is a package for [Atom](https://atom.io), a hackable text editor for the 21st Century.\n\n## Usage\n\nThis package provides a cross-platform \"About Atom\" view that displays information about your Atom installation, which currently includes the current version, the license, and the Terms of Use.\n\n## Contributing\n\nAlways feel free to help out!  Whether it's filing bugs and feature requests or working on some of the open issues, Atom's [contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) will help get you started while the [guide for contributing to packages](https://github.com/atom/atom/blob/master/docs/contributing-to-packages.md) has some extra information.\n\n## License\n\n[MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/fusion809/about/blob/master/LICENSE.md) for more details.",
   "readmeFilename": "README.md",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs and atom-installer.",
   "keywords": [
     "about",
