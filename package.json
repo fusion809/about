@@ -4,7 +4,7 @@
   "contributor": "Brenton Horne <brentonhorne77@gmail.com>",
   "main": "./lib/about",
   "readmeFilename": "README.md",
-  "version": "1.5.18",
+  "version": "1.6.0",
   "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs and atom-installer.",
   "keywords": [
     "about",
