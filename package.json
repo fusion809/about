@@ -9,7 +9,8 @@
   "description": "View useful information about your Atom installation. Forked for use by fusion809's Arch Linux PKGBUILDs and atom-installer.",
   "keywords": [
     "about",
-    "archlinux"
+    "linux",
+    "fusion809"
   ],
   "repository": "https://github.com/fusion809/about",
   "license": "MIT",
