@@ -14,6 +14,7 @@
   ],
   "repository": "https://github.com/fusion809/about",
   "license": "MIT",
+  "licenseFilename": "LICENSE",
   "engines": {
     "atom": ">=0.210.0 <2.0.0"
   },
